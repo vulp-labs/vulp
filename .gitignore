@@ -1,0 +1,3 @@
+src/*_auto.*
+out/
+.ccls-cache
